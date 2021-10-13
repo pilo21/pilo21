@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pilo21
+- 👋 Hi, I’m @pilo21, based in italy
 - 👀 I’m interested in programming and robotics
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...actually don't know
